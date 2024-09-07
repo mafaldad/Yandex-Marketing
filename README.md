@@ -18,5 +18,5 @@ Key Insights:
 
 **Tools Used:**
 
-Python (Pandas, Matplotlib): Data cleaning, manipulation, and visualization.
-Statistical Testing (SciPy): Analyzed conversion rates and the efficiency of marketing spend across different sources.
+* Python (Pandas, Matplotlib): Data cleaning, manipulation, and visualization.
+* Statistical Testing (SciPy): Analyzed conversion rates and the efficiency of marketing spend across different sources.
